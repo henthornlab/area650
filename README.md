@@ -20,7 +20,7 @@ Installed on 5/9/2024 by:
 
  For the 2024 *CHE525 Process Analytics* course. 
 
-![Install Photo](https://raw.githubusercontent.com/fodermeg/Cooling-Tower---650/main/Image%20(5).jpeg)
-![Install Photo](https://raw.githubusercontent.com/fodermeg/Cooling-Tower---650/main/Image%20(1).jpeg)
-![Install Photo](https://raw.githubusercontent.com/fodermeg/Cooling-Tower---650/main/Image%20(6).jpeg)
-![Install Photo](https://raw.githubusercontent.com/fodermeg/Cooling-Tower---650/main/Image%20(4).jpeg)
+![Install Photo](https://raw.githubusercontent.com/henthornlab/area650/main/Image5.jpeg)
+![Install Photo](https://raw.githubusercontent.com/henthornlab/area650/main/Image1.jpeg)
+![Install Photo](https://raw.githubusercontent.com/henthornlab/area650/main/Image6.jpeg)
+![Install Photo](https://raw.githubusercontent.com/henthornlab/area650/main/Image4.jpeg)
