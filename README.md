@@ -11,7 +11,7 @@ Model: Memograph M RSG45
 
 |Process Variable|Range|Error|
 |-|-|-|
-|Temperature|-200-850 [°C]|±0.3|
+|Temperature|-100…+450°C (wire wound resistor), -30…+300°C (thin film resistor)|± (0.15+0.002*T), ± 0.15°C (0°C), ± 0.35°C (100°C), defined on range|
 
 Installed on 5/9/2024 by:
 * Christian Buck
