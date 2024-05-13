@@ -1,4 +1,4 @@
-![RHIT Logo](https://raw.githubusercontent.com/koreymar/che525Instrumentation/main/RHITBanner.png)
+![RHIT Logo](https://raw.githubusercontent.com/henthornlab/area650/main/RHITBanner.png)
 # Cooling Tower- Area 650 - RTD Installation
 Cooling Tower RTD Installation
 
