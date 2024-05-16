@@ -2,6 +2,8 @@
 # Cooling Tower- Area 650 - RTD Installation
 Cooling Tower RTD Installation
 
+As part of their ongoing support of our Unit Operations Laboratory, Endress+Hauser recently donated a Profinet-enabled RSG45. With the most recent version of DeltaV (15FP1) now supporting Profinet natively through their PK Controllers, students were able to integrate this RSG45 into our production distributed control systeam.
+
 This is the data manager installed on Area 650: Cooling Tower. This display shows 6 temperatures in various places on the cooling tower. The temperature measurements are taken from 6 separate 3-wire RTDs.
 
 Manufacturer: Endress+Hauser
